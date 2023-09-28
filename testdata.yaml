@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
+
+login: "qaz123"
+password: "34f85ca80e"
+
+title_n: 'Хрю-хря'
+description_n: 'Гусь свинье не товарищ'
+content_n: 'Быть или не быть'
